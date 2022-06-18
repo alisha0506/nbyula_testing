@@ -1,16 +1,16 @@
 # Readme
 
-<p><i>My name is Alisha, I'm a final year student pursuing my Bachelor's in Engineering. This repository contains Testing Plan and Automated Testing Scripts 
+<p><i>My name is Alisha, I'm a final year student pursuing my Bachelor's in Engineering. This repository contains Testing Plan and Automated Testing Scripts. 
   <h4> You can find the Automation Scripts in the <b><i>"testcases"</i></b> directory.</h4></i><p>
 
 <hr/>
 
-<h3> Technologies Used </h3>
-<ul>
+<h3> Technologies Used: </h3>
+<ol>
   <li> Python v3.10.5</li>
   <li> Selenium </li>
   <li> Robotframework </li>
-</ul>
+</ol>
 
 <hr/>
 
