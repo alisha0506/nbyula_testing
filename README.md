@@ -1,10 +1,11 @@
 # Readme
 
-<p><i> ...Your Intro... </i><p>
+<p><i>My name is Alisha, I'm a final year student pursuing my Bachelor's in Engineering. This repository contains Testing Plan and Automated Testing Scripts 
+  <h4> You can find the Automation Scripts in the <b><i>"testcases"</i></b> directory.</h4></i><p>
 
 <hr/>
 
-<h3> Technology Used </h3>
+<h3> Technologies Used </h3>
 <ul>
   <li> Python v3.10.5</li>
   <li> Selenium </li>
@@ -13,7 +14,7 @@
 
 <hr/>
 
-<h3> TestCase Information </h3>
+<h3> TestCases Information </h3>
 
 <ul>
   <li>Test case 1: on URL= https://nbl.one/communities "About US" section is automated <span><b>Result:-</b><i> Pass</i></span></li> 
