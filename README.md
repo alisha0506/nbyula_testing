@@ -1,6 +1,6 @@
 # Readme
 
-<p><i>My name is Alisha, I'm a final year student pursuing my Bachelor's in Engineering. This repository contains Testing Plan and Automated Testing Scripts. 
+<p><i>My name is Alisha, I'm a final year student pursuing my Bachelor's of Engineering in Computer Science. This repository contains Testing Plan and Automated Testing Scripts. 
   <h4> You can find the Automation Scripts in the <b><i>"testcases"</i></b> directory.</h4></i><p>
 
 <hr/>
